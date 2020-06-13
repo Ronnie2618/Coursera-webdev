@@ -51,7 +51,7 @@ h6 {
 header.masthead {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(0deg, #00ffff 0%, 33ff3c 100%);
+  background-color: #00ffff;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
